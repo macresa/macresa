@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Mario</h2> 
-<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.webp" width="80" height="80"/> </a>
+<p align="center"> <img src="https://i.giphy.com/media/4sZjohRLVUZqD4W4XD/giphy.webp" width="80" height="80"/>
   
 <h5 align="center">Languages and tools:</h5>
 <p align="center">
